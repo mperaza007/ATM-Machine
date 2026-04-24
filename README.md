@@ -1,2 +1,1 @@
-Simple ATM Java project that prints options for the users inside the command line.
-Concepts used: OOP, Hashmap, Loops, getting user input
+Simple ATM Java project that prints options for the user inside the command line. A user can login and view their balance on the account, deposit and withdraw money. Concepts used: OOP, Hashmap, Loops, getting user input.
